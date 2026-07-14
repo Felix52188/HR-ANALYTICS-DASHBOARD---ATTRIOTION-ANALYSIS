@@ -1,4 +1,4 @@
-# HR-ANALYTICS-DASHBOARD---ATTRIOTION-ANALYSIS
+# HR-ANALYTICS-DASHBOARD---ATTRITION-ANALYSIS
 
 ## Project Overview
 This project analyzes a publicly available HR performance dataset using PowerBI  to identify factors that influence HR performance and present insights through interactive dashboards.
